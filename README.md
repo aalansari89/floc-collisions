@@ -1,3 +1,3 @@
-# Welcome
+### Floc Collisions App
 
-Here's a Jupyter notebook for calculatuting and visualizing floc collision frequnecy functions. 
+The `Collisions` file is a Jupyter notebook that calculates the collision frequency functions for colliding particles using the *long- and short-* range models.
